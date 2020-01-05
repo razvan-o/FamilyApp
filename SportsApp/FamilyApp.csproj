@@ -67,7 +67,7 @@
     <Compile Include="FamilyApp.Designer.cs">
       <DependentUpon>FamilyApp.cs</DependentUpon>
     </Compile>
-    <Compile Include="Parent.cs" />
+    <Compile Include="Auxiliary\Parent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FamilyApp.resx">
@@ -83,7 +83,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <Compile Include="Person.cs" />
+    <Compile Include="Auxiliary\Person.cs" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -98,7 +98,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="dataBase.xml">
+    <EmbeddedResource Include="Database\dataBase.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
