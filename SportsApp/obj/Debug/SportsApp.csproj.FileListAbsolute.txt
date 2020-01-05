@@ -1,0 +1,9 @@
+C:\Users\razva\source\repos\SportsApp\SportsApp\bin\Debug\dataBase.xml
+C:\Users\razva\source\repos\SportsApp\SportsApp\bin\Debug\SportsApp.exe.config
+C:\Users\razva\source\repos\SportsApp\SportsApp\bin\Debug\SportsApp.exe
+C:\Users\razva\source\repos\SportsApp\SportsApp\bin\Debug\SportsApp.pdb
+C:\Users\razva\source\repos\SportsApp\SportsApp\obj\Debug\SportsApp.Form1.resources
+C:\Users\razva\source\repos\SportsApp\SportsApp\obj\Debug\SportsApp.Properties.Resources.resources
+C:\Users\razva\source\repos\SportsApp\SportsApp\obj\Debug\SportsApp.csproj.GenerateResource.cache
+C:\Users\razva\source\repos\SportsApp\SportsApp\obj\Debug\SportsApp.exe
+C:\Users\razva\source\repos\SportsApp\SportsApp\obj\Debug\SportsApp.pdb
